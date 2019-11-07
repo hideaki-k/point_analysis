@@ -1,0 +1,8 @@
+prefix=/home/hi/analysis_ws/devel/.private/point_analyzer
+
+Name: point_analyzer
+Description: Description of point_analyzer
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hi/analysis_ws/devel/.private/point_analyzer/lib 
+Requires: 

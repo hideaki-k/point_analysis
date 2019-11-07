@@ -1,0 +1,15 @@
+** WARNING ** io features related to openni2 will be disabled
+** WARNING ** io features related to pcap will be disabled
+** WARNING ** io features related to png will be disabled
+** WARNING ** visualization features related to openni2 will be disabled
+[31m[1mCMake Error[0m at /home/hi/analysis_ws/src/point_analyzer/CMakeLists.txt:217 (add_executable):
+  Cannot find source file:
+
+    planar_segmentation.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: planar_segmentation
+CMake Error: Cannot determine link language for target "planar_segmentation".

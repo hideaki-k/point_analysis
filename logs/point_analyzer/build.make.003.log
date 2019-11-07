@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target planar_segmentation[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/planar_segmentation.dir/src/planar_segmentation.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/hi/analysis_ws/devel/.private/point_analyzer/lib/point_analyzer/planar_segmentation[0m
+[100%] Built target planar_segmentation

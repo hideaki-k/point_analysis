@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hi/analysis_ws/devel/.private/point_analyzer/setup.sh

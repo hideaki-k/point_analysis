@@ -1,0 +1,4 @@
+Symlinking /home/hi/analysis_ws/devel/lib/point_analyzer/planar_segmentation
+Symlinking /home/hi/analysis_ws/devel/lib/pkgconfig/point_analyzer.pc
+Symlinking /home/hi/analysis_ws/devel/share/point_analyzer/cmake/point_analyzerConfig.cmake
+Symlinking /home/hi/analysis_ws/devel/share/point_analyzer/cmake/point_analyzerConfig-version.cmake
