@@ -33,7 +33,7 @@ main (int argc, char** argv)
   
   for (; i < cloud.points.size (); ++i)  
     {  
-      // ちらばらせる  
+      // ちらばらせる  iei
       cloud.points[i].x = 1024 * rand () / (RAND_MAX + 1.0);  
       cloud.points[i].y = 1024 * rand () / (RAND_MAX + 1.0);  
       cloud.points[i].z = 1024 * rand () / (RAND_MAX + 1.0);  
