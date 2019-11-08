@@ -23,7 +23,7 @@ int main()
 
 	// 作成したPointCloudを読み込む
 	// pcl::io::loadPCDFile("p_cloud_ascii.pcd", *p_cloud);
-	pcl::io::loadPCDFile("p_cloud_binary.pcd", *p_cloud);
+	pcl::io::loadPCDFile("bunny.pcd", *p_cloud);
 
 	// ビューワーの作成
 	pcl::visualization::CloudViewer viewer("PointCloudViewer");
