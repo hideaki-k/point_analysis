@@ -6,7 +6,7 @@ using namespace std;
 // ビューワー起動時の一回だけ呼ばれる
 void viewerOneOff(pcl::visualization::PCLVisualizer& viewer)
 {
-	viewer.setBackgroundColor(0.2, 0.2, 0.2);
+	viewer.setBackgroundColor(255, 255, 255);
 	cout << "viewerOneOff" << std::endl;
 }
 
