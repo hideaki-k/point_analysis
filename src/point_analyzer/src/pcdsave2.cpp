@@ -388,7 +388,7 @@ int main()
 	pcl::io::loadPCDFile("bunny.pcd", *p_cloud);
 
 	// ビューワーの作成
-	pcl::visualization::CloudViewer viewer("PointCloudViewer");
+	pcl::visualization::CloudViewer viewer("PointCloudViewer!!");
 	viewer.showCloud(p_cloud);
 
 	// ビューワー起動時の一回だけ呼ばれる関数をセット
@@ -404,3 +404,4 @@ int main()
 	}
 	return 0;
 }
+
