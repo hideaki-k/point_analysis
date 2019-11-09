@@ -197,7 +197,7 @@ struct pcl::visualization::CloudViewer::CloudViewer_impl
     using namespace pcl::visualization;
 
     viewer_ = boost::shared_ptr<PCLVisualizer>(new PCLVisualizer (window_name_, true));
-    viewer_->setBackgroundColor (0.1, 0.1, 0.1);
+    viewer_->setBackgroundColor (200, 200, 200);
     viewer_->addCoordinateSystem (0.1, "global");
 
     while (!quit_)
